@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mi seundo post!"
+title:  "Mi segundo post!"
 date:   2026-03-02 21:10:29 -0500
 categories: jekyll update
 ---
